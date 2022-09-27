@@ -1,2 +1,2 @@
 #!/bin/bash
-ls . -Arts | tail -10
+ls . | tail -10
